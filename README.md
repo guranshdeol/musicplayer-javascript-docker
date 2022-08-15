@@ -6,11 +6,7 @@
 
 
 
-# How to Containarize a Static Website Using Docker
-- This Project was made for **Docker Workshop** and addressed by **Docker Captain Ajeet Singh Raina** organised by **Open Source Chandigarh** an open source community.
-- This repositry contains all the required Media Files and Frontend Files as well as the Docker File.
-- Simply Follow the [Steps](https://github.com/guranshdeol/docker-workshop-osc/edit/main/README.md#steps) to run the Container.
-
+# How to Containarize a Music Player using JavaScript and Docker
 
 
 ## Technical Stack
@@ -39,13 +35,13 @@
 ### Step 1 - Clone the repository
 
 ```
- git clone https://github.com/guranshdeol/docker-workshop-osc.git
+ git clone https://github.com/Open-Source-Chandigarh/musicplayer-javascript-docker
 ```
 
 ### Step 2 - Change directory to projectname
 
 ```
- cd docker-workshop-osc
+ cd musicplayer-javascript-docker
 ```
 
 ### Step 3 - Create docker image
@@ -71,6 +67,5 @@ docker build -t musicplayer .
 * I took help from **collabnix.com** 's **Docker Labs 101** Tutorial while learning.
 Do check it out at [Collabnix.com](https://www.collabnix.com)
 
-## Website Repositry link: 
-https://github.com/guranshdeol/music-player
+
 
