@@ -39,13 +39,13 @@
 ### Step 1 - Clone the repository
 
 ```
- git clone https://github.com/guranshdeol/docker-workshop-osc.git
+ git clone https://github.com/guranshdeol/musicplayer-javascript-docker.git
 ```
 
 ### Step 2 - Change directory to projectname
 
 ```
- cd docker-workshop-osc
+ cd musicplayer-javascript-docker
 ```
 
 ### Step 3 - Create docker image
