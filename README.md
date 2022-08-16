@@ -1,8 +1,8 @@
-![stars](https://img.shields.io/github/stars/Open-Source-Chandigarh/project-template)
-![forks](https://img.shields.io/github/forks/Open-Source-Chandigarh/project-template)
-![issues](https://img.shields.io/github/issues/Open-Source-Chandigarh/project-template)
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=Open-Source-Chandigarh.project-template)
-![GitHub contributors](https://img.shields.io/github/contributors/Open-Source-Chandigarh/project-template)
+![stars](https://img.shields.io/github/stars/guranshdeol/musicplayer-javascript-docker)
+![forks](https://img.shields.io/github/forks/guranshdeol/musicplayer-javascript-docker)
+![issues](https://img.shields.io/github/issues/guranshdeol/musicplayer-javascript-docker)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=guranshdeol.music-player-javascript-docker)
+![GitHub contributors](https://img.shields.io/github/contributors/guranshdeol/musicplayer-javascript-docker)
 
 
 
